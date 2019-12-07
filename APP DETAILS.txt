@@ -3,23 +3,23 @@ All of these apps, besides the LANDLORD APP, were created while learning Dart & 
 Simulators lag very little tad and running final apps on actual devices are flawless.
 
 DELI APP
-  - Purpose: Practice States, Layout Building, Managing *hardcoded* dynamic data
-  - Description: Small app that lists food items with their recipies. You can choose and display your favorite items.
+  - Purpose: Practice States, Layout Building, Managing *hardcoded* dynamic data
+  - Description: Small app that lists food items with their recipes. You can choose and display your favorite items.
 
 GREAT PLACES APP
-  - Purpose: Practice using native device controls, such as camera and geolocation, API Implementation
-    - **NOTE: CAMERA DOES NOT WORK ON IOS SIMULATOR, ONLY ON ANDROID PHONE/EMULATOR AND IOS PHONES. THIS IS RESTRICTED BY IOS
-  - Description: List favorite pictures that are assiciated with locations.
-    
+  - Purpose: Practice using native device controls, such as camera and geolocation, API Implementation
+    - **NOTE: CAMERA DOES NOT WORK ON IOS SIMULATOR, ONLY ON ANDROID PHONE/EMULATOR AND IOS PHONES. THIS IS RESTRICTED BY IOS
+  - Description: List favorite pictures that are associated with locations.
+    
 LANDLORD APP
-  - Purpose: Practice UI Design. 
-  - Description: This is a replica of a game that I used to test my designing skills. Only Design and        
-                 navigation functionality
-    
+  - Purpose: Practice UI Design. 
+  - Description: This is a replica of a game that I used to test my designing skills. Only Design and        
+                 navigation functionality
+    
 SHOP APP
-  - Purpose: Firebase (API)(RESTful) implemenation via user authentication and database, Storing data on device (SQL), 
-             Data Manipulation, Provider (data manager)
-  - Description: This is a small commerce app. Upload your own products that are associated with your profile (login), edit, 
-                 read, update, and delete (CRUD). Each change to a product is immediately updated to firebase/device, such as 
-                 create, update, delete, change favorite, place orders, or add to cart.
-    
+  - Purpose: Firebase (API)(RESTful) implementation via user authentication and database, Storing data on device (SQL), 
+             Data Manipulation, Provider (data manager)
+  - Description: This is a small commerce app. Upload your own products that are associated with your profile (login), edit, 
+                 read, update, and delete (CRUD). Each change to a product is immediately updated to firebase/device, such as 
+                 create, update, delete, change favorite, place orders, or add to cart.
+    
