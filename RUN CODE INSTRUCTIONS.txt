@@ -1,0 +1,23 @@
+**VS Code with Flutter & Dart Extensions are required to run these apps.**
+
+Open folder personal_apps folder within VS Code
+
+GET SIMULATOR READY
+Command Line: 
+(Mac) run code "run -a simulator"
+(Windows) Ctrl+Shift+P "Flutter: Select Device"
+  - Choose Existing simulator
+    OR
+  - Create New Emulator
+
+INITIATE APP
+Command Line: 
+  - run code "cd <Folder Name>/"
+  - run code "flutter run"
+  
+IF ANY ERROR
+Command Line:
+  - run code "flutter clean"
+  - iNITIATE APP
+
+
