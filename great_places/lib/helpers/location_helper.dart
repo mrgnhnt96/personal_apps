@@ -1,6 +1,7 @@
 import 'package:http/http.dart' as http;
 import 'dart:convert';
 
+//APIKEY add your own google api key to test the google maps feature
 const GOOGLE_API_KEY = '';
 
 class LocationHelper {
