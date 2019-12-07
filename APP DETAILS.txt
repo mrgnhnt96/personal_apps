@@ -1,5 +1,7 @@
 All of these apps, besides the LANDLORD APP, were created while learning Dart & Flutter. They all have different purposes to learning, which will be listed below their name along with a brief description of the app.
 
+Simulators lag very little tad and running final apps on actual devices are flawless.
+
 DELI APP
   - Purpose: Practice States, Layout Building, Managing *hardcoded* dynamic data
   - Description: Small app that lists food items with their recipies. You can choose and display your favorite items.
