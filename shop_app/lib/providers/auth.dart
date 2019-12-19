@@ -12,7 +12,8 @@ class Auth with ChangeNotifier {
   String _userId;
   Timer _authTimer;
 
-  final apiKey = 'AIzaSyAKyq6s5HKDTz60eI9QJGPU6jVaAnZNBcU';
+  // INSERT YOUR API KEY HERE TO TEST
+  final apiKey = '';
 
   bool get isAuth {
     return token != null;
