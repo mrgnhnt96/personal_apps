@@ -1,6 +1,7 @@
 **VS Code with Flutter & Dart Extensions are required to run these apps.**
 
 **YOU WILL NEED TO GET YOUR OWN API KEY FROM GOOGLE TO TEST THE GOOGLE FEATURES**
+**YOU WILL NEED TO GET YOUR OWN API KEY FROM FIREBASE TO TEST THE FIREBASE FEATURES**
 
 Open folder personal_apps folder within VS Code
 
